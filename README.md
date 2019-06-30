@@ -1,4 +1,2 @@
-# codewars-challenges
-codewars-challenges
+# codewars-challenges ![profile](https://www.codewars.com/users/QiaoBaoJun/badges/micro)
 
-![Status](https://www.codewars.com/users/QiaoBaoJun/badges/large)
